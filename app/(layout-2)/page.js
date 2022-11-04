@@ -1,6 +1,6 @@
 
 const Layout2Page = () => {
-  return <div className="bg-lime-30">
+  return <div className="text-green">
     Layout 2
   </div>
 }

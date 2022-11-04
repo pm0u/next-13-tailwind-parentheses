@@ -9,6 +9,5 @@ module.exports = {
       blue: '#0000FF',
       green: '#00FF00'
     }
-  },
-  prefix: 'eta-',
+  }
 }

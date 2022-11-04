@@ -1,6 +1,6 @@
 
 const Layout1Page = () => {
-  return <div className="eta-text-green eta-mt-10">
+  return <div className="text-green">
     Layout 1
   </div>
 }
