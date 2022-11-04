@@ -1,0 +1,13 @@
+{
+  "tailwindCSS.experimental.configFile": {
+    "tailwind/layout-1.tailwind.config.js": "app/(layout-1)/**",
+    "tailwind/layout-2.tailwind.config.js": "app/(layout-2)/**"
+  },
+  "files.associations": {
+    "*.css": "tailwindcss",
+    "*.module.css": "tailwindcss"
+  },
+  "editor.quickSuggestions": {
+    "strings": true
+  }
+}

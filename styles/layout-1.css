@@ -1,0 +1,5 @@
+@config '../tailwind/layout-1.tailwind.config.js'
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
